@@ -1,0 +1,14 @@
+D:\งาน\ตาจ๋า\slave\slave\bin\Debug\slave.exe.config
+D:\งาน\ตาจ๋า\slave\slave\bin\Debug\slave.exe
+D:\งาน\ตาจ๋า\slave\slave\bin\Debug\slave.pdb
+D:\งาน\ตาจ๋า\slave\slave\obj\Debug\slave.csprojAssemblyReference.cache
+D:\งาน\ตาจ๋า\slave\slave\obj\Debug\slave.csproj.CoreCompileInputs.cache
+D:\งาน\ตาจ๋า\slave\slave\obj\Debug\slave.exe
+D:\งาน\ตาจ๋า\slave\slave\obj\Debug\slave.pdb
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\obj\Debug\slave.csprojAssemblyReference.cache
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\obj\Debug\slave.csproj.CoreCompileInputs.cache
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\obj\Debug\slave.exe
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\obj\Debug\slave.pdb
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\bin\Debug\slave.exe.config
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\bin\Debug\slave.exe
+C:\Users\fluke\OneDrive\เดสก์ท็อป\slave\slave\bin\Debug\slave.pdb
